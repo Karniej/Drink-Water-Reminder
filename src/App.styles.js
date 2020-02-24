@@ -19,7 +19,7 @@ export default StyleSheet.create({
     },
     snackbar: {
         textAlign: 'center',
-        bottom: 200
+        bottom: 130
     },
     modalContainer: {
         flex: 1,
